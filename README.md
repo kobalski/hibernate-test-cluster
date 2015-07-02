@@ -1,0 +1,1 @@
+To run application, run **mvn clean install exec:java -Dexec.mainClass="test.App"** command.
